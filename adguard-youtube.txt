@@ -1,5 +1,5 @@
-||youtube.com
-||googlevideo.com
-||ytimg.com^
-||youtubei.googleapis.com^
-||youtube-nocookie.com^
+||youtube.com^$ctag=~user_admin
+||googlevideo.com^$ctag=~user_admin
+||ytimg.com^$ctag=~user_admin
+||youtubei.googleapis.com^$ctag=~user_admin
+||youtube-nocookie.com^$ctag=~user_admin
