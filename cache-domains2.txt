@@ -1,3 +1,4 @@
+[/clientconfig.akamai.steamstatic.com/]https://family.cloudflare-dns.com/dns-query
 [/blizzard.vo.llnwd.net/]192.168.6.1
 [/blzddist1-a.akamaihd.net/]192.168.6.1
 [/blzddist2-a.akamaihd.net/]192.168.6.1
